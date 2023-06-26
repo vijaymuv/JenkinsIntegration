@@ -22,6 +22,7 @@ public class ContactUs_TestNg_dataProvider extends UtilityFiles {
         getUrl("https://www.ascendtek.com/");
 //        driver.findElement(By.xpath("//*[@id=\"et-boc\"]/div/div[1]/span/a")).click();
                System.out.println("welcome");
+        System.out.println("hello java");
     }
 
     @Test(dataProvider = "TestDatas")
